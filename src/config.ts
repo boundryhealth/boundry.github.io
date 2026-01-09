@@ -4,8 +4,8 @@ export const siteConfig = {
   description: "Boundry Website",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    email: "boundryhealth@gmail.com",
+    linkedin: "https://www.linkedin.com/company/boundryheor/",
     twitter: "https://x.com/rfitzio",
     github: "https://github.com/RyanFitzgerald",
   },
@@ -14,23 +14,23 @@ export const siteConfig = {
   skills: ["Automation", "Analysis", "Visual Outputs", "Research"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Boundry Distilled",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "One Global Health topic. Five minutes. Every week. We break down global health economics using high-impact visuals and simplified data. No opinion, no fluff, and all jargon explained—just the essential trends you need to understand health affairs.",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Communication", "Visuals", "Explanation"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Coming soon.",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "...",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "ExtensionKit",
+      name: "Coming Soon.",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "...",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
