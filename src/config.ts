@@ -73,9 +73,9 @@ export const siteConfig = {
       degree: "Tayjah Talukder",
       dateRange: "Since Est.",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated Magna Cum Laude with 3.8 GP",
+        "Medical Affairs Placement Student @Sanofi",
+        "Foundation Year in MechEng",
       ],
     },
     {
@@ -85,7 +85,7 @@ export const siteConfig = {
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Specialised in Data Science",
       ],
     },
   ],
