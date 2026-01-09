@@ -69,9 +69,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Founder & Project Lead | BSc Biological Sciences",
+      degree: "Tayjah Talukder",
+      dateRange: "Since Est.",
       achievements: [
         "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
@@ -79,9 +79,9 @@ export const siteConfig = {
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Co-Founder & Technical Lead | BE Mechatroonics, Robotics, and Automation Engineering",
+      degree: "Dennis Dai",
+      dateRange: "Since Est.",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
