@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Student-led applied research group exploring how automation and data science can improve health economic decision-making",
-  skills: ["Automation", "Analysis", "Visual Outputs", "Research", "AWS", "Docker"],
+  skills: ["Automation", "Analysis", "Visual Outputs", "Research"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
