@@ -21,11 +21,11 @@ export const siteConfig = {
       skills: ["Communication", "Visuals", "Explanation"],
     },
     {
-      name: "Coming soon.",
+      name: "S.I.G.H.T. - Strategic Insights into Guidance and Health Technologies",
       description:
-        "...",
+        "S.I.G.H.T. is an automated intelligence dashboard by Boundry that transforms complex NICE regulatory data into searchable, plain-language insights, helping users understand exactly why health technologies succeed or fail in the UK market.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Dashboard", "Machine Learning", "Automation"],
     },
     {
       name: "Coming Soon.",
@@ -37,13 +37,11 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Beginning",
+      title: "Founding",
+      dateRange: "25/12/2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "The beginning of our jounrey.",
       ],
     },
     {
@@ -73,7 +71,7 @@ export const siteConfig = {
       degree: "Tayjah Talukder",
       dateRange: "Since Est.",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GP",
+        "Maintaining First at University",
         "Medical Affairs Placement Student @Sanofi",
         "Foundation Year in MechEng",
       ],
